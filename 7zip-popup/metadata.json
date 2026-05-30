@@ -1,0 +1,8 @@
+{
+    "description": "7-Zip context menu (Add to archive / quick add)",
+    "uuid": "7zip-popup@badmotorfinger",
+    "name": "7-Zip Popup",
+    "author": "badmotorfinger",
+    "version": "0.1.0",
+    "last-edited": 1746950400
+}

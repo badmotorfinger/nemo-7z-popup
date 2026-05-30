@@ -1,0 +1,7 @@
+# Log files
+*.log
+7zip-popup-debug.log
+
+# Python bytecode
+__pycache__/
+*.pyc

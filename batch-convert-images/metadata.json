@@ -1,0 +1,8 @@
+{
+    "description": "Batch conversion of image formats",
+    "uuid": "batch-convert-images@badmotorfinger",
+    "name": "Batch Convert Image Format",
+    "author": "badmotorfinger",
+    "version": "1.0.0",
+    "last-edited": 1744545000
+}

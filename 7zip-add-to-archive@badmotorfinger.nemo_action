@@ -1,0 +1,10 @@
+[Nemo Action]
+Active=true
+Name=Add to archive...
+Comment=Open the 7-Zip Add to Archive dialog for %F
+Exec=<7zip-popup/add-to-archive.py %F>
+Icon-Name=package-x-generic
+Selection=notnone
+Extensions=any;
+Quote=double
+Dependencies=python3;7z;

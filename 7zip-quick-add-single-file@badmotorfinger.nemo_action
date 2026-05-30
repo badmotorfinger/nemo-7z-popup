@@ -1,0 +1,10 @@
+[Nemo Action]
+Active=true
+Name=Add to "%e.7z"
+Comment=Compress %f into %e.7z with default 7-Zip options
+Exec=<7zip-popup/quick-add.py %F>
+Icon-Name=package-x-generic
+Selection=s
+Extensions=nodirs;
+Quote=double
+Dependencies=python3;7z;

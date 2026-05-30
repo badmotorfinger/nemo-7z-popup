@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "7zip-submenu-badmotorfinger",
+    "type": "submenu",
+    "user-label": "7-Zip",
+    "user-icon": "package-x-generic",
+    "children": [
+      {
+        "uuid": "7zip-quick-add-single-file@badmotorfinger.nemo_action",
+        "type": "action"
+      },
+      {
+        "uuid": "7zip-quick-add-single-dir@badmotorfinger.nemo_action",
+        "type": "action"
+      },
+      {
+        "uuid": "7zip-quick-add-multi@badmotorfinger.nemo_action",
+        "type": "action"
+      },
+      {
+        "uuid": "7zip-add-to-archive@badmotorfinger.nemo_action",
+        "type": "action"
+      }
+    ]
+  }
+]
